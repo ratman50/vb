@@ -1,0 +1,20 @@
+C:\Users\22177\AppData\Local\Temporary Projects\Souscription\bin\Debug\Souscription.exe.config
+C:\Users\22177\AppData\Local\Temporary Projects\Souscription\bin\Debug\Souscription.exe
+C:\Users\22177\AppData\Local\Temporary Projects\Souscription\bin\Debug\Souscription.pdb
+C:\Users\22177\AppData\Local\Temporary Projects\Souscription\bin\Debug\Souscription.xml
+C:\Users\22177\AppData\Local\Temporary Projects\Souscription\obj\Debug\Souscription.Form1.resources
+C:\Users\22177\AppData\Local\Temporary Projects\Souscription\obj\Debug\Souscription.Resources.resources
+C:\Users\22177\AppData\Local\Temporary Projects\Souscription\obj\Debug\Souscription.vbproj.GenerateResource.Cache
+C:\Users\22177\AppData\Local\Temporary Projects\Souscription\obj\Debug\Souscription.exe
+C:\Users\22177\AppData\Local\Temporary Projects\Souscription\obj\Debug\Souscription.xml
+C:\Users\22177\AppData\Local\Temporary Projects\Souscription\obj\Debug\Souscription.pdb
+C:\Users\22177\Documents\PROJET\Souscription\Souscription\bin\Debug\Souscription.exe.config
+C:\Users\22177\Documents\PROJET\Souscription\Souscription\obj\Debug\Souscription.exe
+C:\Users\22177\Documents\PROJET\Souscription\Souscription\obj\Debug\Souscription.xml
+C:\Users\22177\Documents\PROJET\Souscription\Souscription\obj\Debug\Souscription.pdb
+C:\Users\22177\Documents\PROJET\Souscription\Souscription\bin\Debug\Souscription.exe
+C:\Users\22177\Documents\PROJET\Souscription\Souscription\bin\Debug\Souscription.pdb
+C:\Users\22177\Documents\PROJET\Souscription\Souscription\bin\Debug\Souscription.xml
+C:\Users\22177\Documents\PROJET\Souscription\Souscription\obj\Debug\Souscription.Form1.resources
+C:\Users\22177\Documents\PROJET\Souscription\Souscription\obj\Debug\Souscription.Resources.resources
+C:\Users\22177\Documents\PROJET\Souscription\Souscription\obj\Debug\Souscription.vbproj.GenerateResource.Cache
